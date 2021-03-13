@@ -36,7 +36,7 @@ int main() {
     pthread_t tid;
     struct Msg msg;
     msg.age = 18;
-    strcpy(msg.name, "fangsong");
+    strcpy(msg.name, "zhangfengbo");
     pthread_create(&tid, NULL, print, (void *)&msg);
     pthread_join(tid,&status);
     printf("%d\n",*(int *)status);
