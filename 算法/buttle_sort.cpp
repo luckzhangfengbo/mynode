@@ -34,7 +34,8 @@ int main() {
     }
     buttle_sort(a, n);
     for (int i = 0; i < n; i++) {
-        cout << " " <<a[i] << endl;
+        i && cout << " ";
+        cout << a[i] << endl;
     }
 
     return 0;
