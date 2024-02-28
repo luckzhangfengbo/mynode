@@ -34,7 +34,7 @@
 
 ### 7.` One_Question_Per_Day`:one:
 
-[薛老板](https://github.com/miracle0609)的每日一题, 坚持更新中...
+每日一题, 坚持更新中...
 
 ### 8. Python:snake:
 
